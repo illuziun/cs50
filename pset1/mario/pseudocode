@@ -1,0 +1,4 @@
+1. Prompt the user for height
+2. If the height is less than 1 or more than 8, reprompt the user without printing
+3. Begin with a single hashtag on the first row
+4. For each additional row, add one more hashtag than the previous row
