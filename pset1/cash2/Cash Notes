@@ -1,0 +1,5 @@
+Prompt the user for the amount of change owed
+
+Use the largest valued coins possible while keeping track of the amount of coins used
+
+Print the number of coins used
